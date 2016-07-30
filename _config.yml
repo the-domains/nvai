@@ -1,0 +1,14 @@
+layout_spectrum: 0.38886238099075854
+typography_spectrum: 0.2741580568253994
+color:
+  brandStrength: 0.11556437471881509
+  lightness: 0.5286494586616755
+  saturation: 0.42446595011278987
+  rhythmicContrast: 0.04628372564911842
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: NvAI
